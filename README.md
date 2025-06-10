@@ -1,7 +1,7 @@
 ---
 ![Image](https://github.com/user-attachments/assets/160dbcd0-2c3f-4edf-961c-adecebf4887d)
 
-# Python Text Generator
+# xternal Text-Generator
 
 # What It Does
 The Python Text Generator is a powerful tool designed to create coherent and contextually relevant text based on the input prompts you provide. It leverages advanced natural language processing techniques to generate creative writing, articles, dialogue, or even poetry. Whether you're looking for inspiration, need assistance with brainstorming ideas, or want to automate content generation, this text generator is here to help!
