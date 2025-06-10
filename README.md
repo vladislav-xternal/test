@@ -20,6 +20,9 @@ To run the Python Text Generator, follow these simple steps:
    ```
 4. **Input Your Prompt**: Once the script is running, enter your authentication key that you can get from *https://app.edenai.run/bricks/catalog* (the link on the website is included in the script too), then enter your text prompt. The generator will then produce output based on your input.
 
+![Screenshot 2025-06-10 155204](https://github.com/user-attachments/assets/b568bee4-fb62-4c4b-bafd-747b1397c151)
+
+
 # Communicate with Me
 If you have questions or need support, feel free to reach out to me:
 [Telegram](https://t.me/vladislav_xternal)
